@@ -7,7 +7,7 @@ require_once("commonFunction.php");
 Plugin Name: Thinkun Remind
 Plugin URI: http://www.thinkun.net/blog/thinkun-remind-wordpress-plugin/
 Description: Send a branded and personalised html or text email to anyone, using your own custom email templates and custom fields.
-Version: 1.0.9
+Version: 1.1
 Author:  Thinkun
 Author URI: http://www.thinkun.net
 License: GPLv2 or later
