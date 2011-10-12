@@ -3,7 +3,7 @@ Contributors: thinkun
 Tags: email template, send email, reminder, email, html, custom fields
 Requires at least: 3.0.0
 Tested up to: 3.2.1
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Send a branded and personalised HTML or text email to anyone, using your own custom email templates and custom fields.
 
@@ -40,6 +40,10 @@ Note: these variable codes are always sanitised to lowercase and must be lowerca
 2. The Edit Template page after previewing.
 
 == Changelog ==
+
+= 1.1.1 =
+
+* Fixed issue with plugin not functioning when installed from repository
 
 = 1.1 =
 
