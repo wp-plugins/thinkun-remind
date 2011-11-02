@@ -41,6 +41,10 @@ Note: these variable codes are always sanitised to lowercase and must be lowerca
 
 == Changelog ==
 
+= 1.1.3 =
+
+* Fixed preview template issue
+
 = 1.1.1 =
 
 * Fixed issue with plugin not functioning when installed from repository
