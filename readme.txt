@@ -2,7 +2,7 @@
 Contributors: thinkun
 Tags: email template, send email, reminder, email, html, custom fields
 Requires at least: 3.0.0
-Tested up to: 3.2.1
+Tested up to: 3.3
 Stable tag: 1.1.3
 
 Send a branded and personalised HTML or text email to anyone, using your own custom email templates and custom fields.
